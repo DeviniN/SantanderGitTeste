@@ -18,8 +18,11 @@ Snapshots do estado do projeto
 ## Git status
 
 -Untracked # arquivo adicionado no projeto
+
 -Unmodified # salvo no estado atual (já recebeu commit e está salvo)
+
 -Modified # sofreu ateração (não recebeu commit e não está salvo)
+
 -Staged # sofreu ateração e foi para area de tranferencia "area do git add" (não recebeu commit e não está salvo)
 
 ## Comandos
