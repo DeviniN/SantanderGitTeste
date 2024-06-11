@@ -5,4 +5,5 @@ Aprendendo a utilizar o Git pelo curso do Santander
 
 * comando git push
 * comando git pull
+* comando git fetch
   
